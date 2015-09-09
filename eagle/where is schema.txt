@@ -1,0 +1,2 @@
+The schema for this module is the same as the schema for the CAN4VSCP_Kelvin_1Wire module 
+that is available here https://github.com/grodansparadis/can4vscp_kelvin_1wire
